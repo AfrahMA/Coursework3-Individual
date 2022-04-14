@@ -7,7 +7,7 @@
         <span class="fas fa-cart-plus"></span> Shopping Cart
       </button>
     </header>
-
+    <p>hello</p>
     <LessonList
       v-if="showSubject"
       v-bind:lessons="lessons"
